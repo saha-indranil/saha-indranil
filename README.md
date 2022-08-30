@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saha-indranil&label=Profile%20views&color=0e75b6&style=flat" alt="saha-indranil" /> </p>
 
-- 🔭 I’m currently working on [Sticker.ly India](sticker.ly/user/stickerly_indranil)
+- 🔭 I’m currently working in [Sticker.ly India](sticker.ly/user/stickerly_indranil)
 
 - 🌱 I’m currently exploring **everything**
 
 - 📫 How to reach me **sahaindranil2004@gmail.com**
 
-- ⚡ Fun fact **I'm a data structure, who's looking for a sorting algorithm 😜**
+- ⚡ Fun fact - **I'm a data structure, who's looking for a sorting algorithm 😜**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
