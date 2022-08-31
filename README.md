@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saha-indranil&label=Profile%20views&color=0e75b6&style=flat" alt="saha-indranil" /> </p>
 
-- 🔭 I’m currently working in [Sticker.ly India](sticker.ly/user/stickerly_indranil)
+- 🔭 I’m currently working in [Sticker.ly India](https://sticker.ly/user/stickerly_indranil)
 
 - 🌱 I’m currently exploring **everything**
 
