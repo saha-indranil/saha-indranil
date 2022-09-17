@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Indranil</h1>
 <h3 align="center">A CSE(AI-ML) student from India 😎</h3>
-<img align="right" alt="Coding" width="280" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="Image" width="250" src="https://media-exp1.licdn.com/dms/image/C5603AQFclxj0Wh8Aew/profile-displayphoto-shrink_400_400/0/1649352115306?e=1668643200&v=beta&t=v9I9dGwdBqf3hjmncNcI0Ll_ASXT9FA4GUu0UGSp588">
 
 
 
