@@ -2,8 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Indranil</h1>
 <h3 align="center">A CSE(AI-ML) student from India 😎</h3>
-<img align="right" alt="Image" width="250" src="https://media-exp1.licdn.com/dms/image/C5603AQFclxj0Wh8Aew/profile-displayphoto-shrink_400_400/0/1649352115306?e=1668643200&v=beta&t=v9I9dGwdBqf3hjmncNcI0Ll_ASXT9FA4GUu0UGSp588">
-
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saha-indranil&label=Profile%20views&color=0e75b6&style=flat" alt="saha-indranil" /> </p>
