@@ -38,3 +38,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saha-indranil&show_icons=true&locale=en" alt="saha-indranil" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saha-indranil&" alt="saha-indranil" /></p>
+
+[![@isay's Holopin board](https://holopin.me/dran_9)](https://holopin.io/@dran_9)
