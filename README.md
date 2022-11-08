@@ -12,9 +12,8 @@
 
 - 📫 How to reach me **sahaindranil2004@gmail.com**
 
-- ⚡ Fun fact - **I'm a data structure, who's looking for a sorting algorithm 😜**
+- ⚡ Fun fact - **YouTube was created to be a dating site.**
 
-<br></br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
