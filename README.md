@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working in [Sticker.ly India](https://sticker.ly/user/stickerly_indranil)
 
-- 🌱 I’m currently exploring **everything**
+- 🌱 I’m currently exploring **Fullstack Web Dev**
 
 - 📫 How to reach me **sahaindranil2004@gmail.com**
 
